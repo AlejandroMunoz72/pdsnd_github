@@ -1,4 +1,4 @@
-#Program created to analyse different databases on a bicycle rental company.  
+#Program created to analyse different databases on a bicycle rental company for data analysis.  
 
 import time
 import pandas as pd

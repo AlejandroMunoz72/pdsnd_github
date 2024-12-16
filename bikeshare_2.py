@@ -1,3 +1,5 @@
+#Program created to analyse different databases on a bicycle rental company.  
+
 import time
 import pandas as pd
 import numpy as np
